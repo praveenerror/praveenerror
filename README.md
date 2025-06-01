@@ -1,5 +1,5 @@
 [Readme.md](https://github.com/user-attachments/files/20538872/Readme.md)
-[Uploading Readm<h1>Hi 👋, I'm praveen , I am a student with a strong interest in coding. I have a good skills and enjoy learning new things in the world of technology</h1>
+[Uploading Readm<h1>Hi 👋, I'm praveen , As a student with a strong interest in coding.I've completed several programming courses and love solving problems with code. I enjoy learning new skills, exploring different programming languages, and always look forward to building something useful. I'm curious, hardworking, and excited about growing in the tech world."</h1>
 <p>A passionate frontend and backend developer from </p>
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="42" height="42" /></a>
